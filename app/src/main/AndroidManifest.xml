@@ -21,7 +21,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".Home"
             android:theme="@style/Theme.OOPClassroom.NoActionBar" />
         <activity android:name=".Register" />
     </application>
